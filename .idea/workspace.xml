@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6f7e8fa-8c80-4688-81ef-ff9b10754480" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/gallery/albums.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/gallery/albums.html.twig" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/gallery/pictures.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/gallery/pictures.html.twig" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/01/5b41707042756e646c655c456e746974795c436f70506963747572657324766f7465735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/01/5b5b435d41707042756e646c655c456e746974795c436f70506963747572657324617070726f7665645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/03/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c47616c6c657279436f6e74726f6c6c657223616c62756d73416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/03/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d73247669736962696c6974795d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/05/5b41707042756e646c655c456e746974795c436f70416c62756d7324616c6250617373776f72645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/08/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d73246d6f64657261746f7247726f75705d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/0a/5b41707042756e646c655c456e746974795c436f7050696374757265735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/0b/5b41707042756e646c655c456e746974795c436f70506963747572657324706f736974696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/13/5b41707042756e646c655c456e746974795c436f7050696374757265732467616c6c65727969636f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/13/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574557365725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/13/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732470696348647249705d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/19/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236765745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/1e/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223616464466c6173685d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/20/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/22/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d732475706c6f6164735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/23/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e646572566965775d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/24/5b41707042756e646c655c456e746974795c436f70506963747572657324617070726f7665645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/24/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223616464466c6173685d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/24/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d7324706f735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/24/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223666f72776172645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/25/5b41707042756e646c655c456e746974795c436f705069637475726573247077696474685d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/26/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732475736572345d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/27/5b41707042756e646c655c436f6e74726f6c6c65725c47616c6c657279436f6e74726f6c6c657223616c62756d73416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/27/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c5265646972656374436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/28/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573246c61737468697449705d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/2a/5b41707042756e646c655c456e746974795c436f705069637475726573246b6579776f7264735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/2b/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574526571756573745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/2d/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573246d74696d655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/2e/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d7324616c6250617373776f726448696e745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/2f/5b41707042756e646c655c456e746974795c436f70506963747572657324706963526174696e675d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/30/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574526571756573745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/32/5b41707042756e646c655c456e746974795c436f70416c62756d7324616c6250617373776f726448696e745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/34/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732466696c6573697a655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/38/5b41707042756e646c655c456e746974795c436f705069637475726573247469746c655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/39/5b53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/39/5b5b435d53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c657223746f6f6c626172416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/3a/5b41707042756e646c655c456e746974795c436f70416c62756d73246169645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/3a/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/3a/5b5b435d53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/42/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d4275696c6465725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/42/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573246374696d655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/44/5b41707042756e646c655c456e746974795c436f70506963747572657324686974735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/46/5b41707042756e646c655c456e746974795c436f7050696374757265732466696c656e616d655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/46/5b53796d666f6e795c436f6d706f6e656e745c446570656e64656e6379496e6a656374696f6e5c436f6e7461696e6572417761726523736574436f6e7461696e65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/49/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574446f637472696e655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/4b/5b41707042756e646c655c456e746974795c436f7050696374757265732475736572335d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/4b/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236861735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/4b/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722363726561746541636365737344656e696564457863657074696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/4d/5b41707042756e646c655c456e746974795c436f7050696374757265732475736572345d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/4d/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374546f526f7574655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/4e/5b41707042756e646c655c456e746974795c436f70416c62756d73247468756d625d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/4e/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722373747265616d5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/50/5b41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/52/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d73246b6579776f72645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/53/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d7324766f7465735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/54/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732467616c6c65727969636f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/54/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e6465725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/55/5b5b435d41707042756e646c655c456e746974795c436f70506963747572657324706963526174696e675d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/55/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/56/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236372656174654e6f74466f756e64457863657074696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/59/5b41707042756e646c655c456e746974795c436f705069637475726573246d74696d655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/59/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574446f637472696e655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/62/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d73247468756d625d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/68/5b5b435d41707042756e646c655c456e746974795c436f70506963747572657324766f7465735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6a/5b41707042756e646c655c456e746974795c436f7050696374757265732463617074696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6b/5b53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6c/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d73246f776e65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/6d/5b41707042756e646c655c436f6e74726f6c6c65725c47616c6c657279436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/70/5b41707042756e646c655c456e746974795c436f705069637475726573246775657374546f6b656e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/71/5b41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/71/5b41707042756e646c655c456e746974795c436f70416c62756d73246b6579776f72645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/74/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d73246169645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/75/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e6465725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/78/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722364656e79416363657373556e6c6573734772616e7465645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/78/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732475726c5072656669785d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/78/5b5b435d53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/7b/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c5265646972656374436f6e74726f6c6c65722375726c5265646972656374416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/7b/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732475736572315d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/7c/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656469726563745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/7e/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574506172616d657465725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/7f/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573246775657374546f6b656e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/80/5b41707042756e646c655c456e746974795c436f7050696374757265732475736572325d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/81/5b41707042756e646c655c456e746974795c436f70416c62756d7324706f735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/82/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d732463617465676f72795d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/84/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223697343737266546f6b656e56616c69645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/86/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722369734772616e7465645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/87/5b41707042756e646c655c456e746974795c436f705069637475726573246374696d655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/88/5b41707042756e646c655c436f6e74726f6c6c65725c47616c6c657279436f6e74726f6c6c6572237069637475726573416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/88/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c47616c6c657279436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/8a/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656469726563745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/8c/5b41707042756e646c655c456e746974795c436f70416c62756d73246f776e65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/8c/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573246169645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/8d/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573247077696474685d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/90/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732463617074696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/93/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722363726561746541636365737344656e696564457863657074696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/94/5b41707042756e646c655c456e746974795c436f70416c62756d7324616c62486974735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/94/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236372656174654e6f74466f756e64457863657074696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/95/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/97/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c5265646972656374436f6e74726f6c6c65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/9a/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d73247469746c655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/9e/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367656e657261746555726c5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a0/5b41707042756e646c655c456e746974795c436f70416c62756d732475706c6f6164735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a2/5b41707042756e646c655c456e746974795c436f70416c62756d73247669736962696c6974795d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a3/5b41707042756e646c655c456e746974795c436f7050696374757265732475726c5072656669785d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a3/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722364656e79416363657373556e6c6573734772616e7465645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a4/5b5b435d53796d666f6e795c436f6d706f6e656e745c446570656e64656e6379496e6a656374696f6e5c436f6e7461696e6572417761726523736574436f6e7461696e65725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a6/5b41707042756e646c655c456e746974795c436f705069637475726573246169645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a7/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573246b6579776f7264735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a7/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236861735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a8/5b41707042756e646c655c456e746974795c436f70416c62756d732463617465676f72795d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/a9/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573246f776e657249645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ab/5b41707042756e646c655c456e746974795c436f70416c62756d73246d6f64657261746f7247726f75705d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ab/5b5b435d41707042756e646c655c456e746974795c436f70506963747572657324746f74616c46696c6573697a655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ac/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732466696c656e616d655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ac/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732466696c65706174685d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ac/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c5265646972656374436f6e74726f6c6c65722375726c5265646972656374416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ad/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573247469746c655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ae/5b41707042756e646c655c456e746974795c436f70416c62756d735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ae/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722373747265616d5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b0/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572237265646972656374546f526f7574655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b4/5b41707042756e646c655c456e746974795c436f7050696374757265732466696c65706174685d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b4/5b53796d666f6e795c42756e646c655c57656250726f66696c657242756e646c655c436f6e74726f6c6c65725c50726f66696c6572436f6e74726f6c6c657223746f6f6c626172416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b5/5b41707042756e646c655c456e746974795c436f7050696374757265732475736572315d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b6/5b5b435d41707042756e646c655c456e746974795c436f705069637475726573247069645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/b9/5b41707042756e646c655c456e746974795c436f705069637475726573247069645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ba/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722369734772616e7465645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/bc/5b53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c65722373686f77416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c5/5b41707042756e646c655c456e746974795c436f70416c62756d73246465736372697074696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/c9/5b41707042756e646c655c456e746974795c436f70416c62756d7324636f6d6d656e74735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ca/5b41707042756e646c655c456e746974795c436f70506963747572657324746f74616c46696c6573697a655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/cc/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d7324636f6d6d656e74735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/cd/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722372656e646572566965775d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ce/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c47616c6c657279436f6e74726f6c6c6572237069637475726573416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ce/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d7324616c6250617373776f72645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/cf/5b41707042756e646c655c456e746974795c436f70416c62756d73247469746c655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d1/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c6572236765745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d2/5b41707042756e646c655c456e746974795c436f70416c62756d7324766f7465735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d2/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d7324616c62486974735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d2/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732475736572335d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d5/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574557365725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d7/5b5b435d41707042756e646c655c456e746974795c436f70416c62756d73246465736372697074696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d7/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732470696352617749705d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/d9/5b5b435d41707042756e646c655c456e746974795c436f70506963747572657324706865696768745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/dc/5b41707042756e646c655c456e746974795c436f705069637475726573246f776e657249645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/df/5b5b435d41707042756e646c655c456e746974795c436f70506963747572657324706f736974696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/df/5b5b435d41707042756e646c655c456e746974795c436f7050696374757265732475736572325d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e0/5b5b435d41707042756e646c655c456e746974795c436f70506963747572657324686974735d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e7/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223697343737266546f6b656e56616c69645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/e8/5b41707042756e646c655c456e746974795c436f705069637475726573246c61737468697449705d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/eb/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c65722367656e657261746555726c5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ed/5b41707042756e646c655c456e746974795c436f7050696374757265732470696348647249705d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ef/5b5b435d53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c65722373686f77416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/f2/5b41707042756e646c655c456e746974795c436f7050696374757265732470696352617749705d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/f5/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/f7/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223666f72776172645d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/f9/5b5b435d53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223637265617465466f726d4275696c6465725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/fc/5b41707042756e646c655c456e746974795c436f70506963747572657324706865696768745d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/fe/5b41707042756e646c655c456e746974795c436f7050696374757265732466696c6573697a655d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/fe/5b53796d666f6e795c42756e646c655c4672616d65776f726b42756e646c655c436f6e74726f6c6c65725c436f6e74726f6c6c657223676574506172616d657465725d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/annotations/ff/5b5b435d41707042756e646c655c436f6e74726f6c6c65725c44656661756c74436f6e74726f6c6c657223696e646578416374696f6e5d5b315d.doctrinecache.data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php.meta" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerUrlGenerator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerUrlGenerator.php.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerUrlMatcher.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/0/02f50290330c0d999a89cf23578cee2f.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/0/04222b6a417e0eb814a13fb50260f865.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/0/05d2e9607d7073dec41a8b3d890885fa.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/0/0d1894798c4287272044698633eab46b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/1/105ce083893e42fa59416b76fdd4d62c.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/1/12c9c645a5f2257bfa29c57068a6599a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/1/1dc782bac176682783c157846b52c03d.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/1/1efe3af4b59d3637f9d1a83e40785306.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/2/213a949e693921766ca9245f70f9728b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/2/2516301f2a2755f2453d8c32b5427d83.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/2/29817d198dd437c9307a781ef7a271c6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/2/2fa7551bfab221ba0e68c366310f59a5.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/3/303352bc44f729db39951d00b533095a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/3/30feba70240d1c52cf398bdba25c9185.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/3/3c5a83d057e90b012b092312ade2b9d4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43432dbb3b30b00fcc8cba6ec5f76b2a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/43a80f0e087752a2d4724591f85aa0e1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/44d87dd993a5302b8e85a78484809e62.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/4778aae52855701445bd4b27d0d29425.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/4c9158cc2847181c8bbaa02504323622.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/4/4f2b5b5c94964b5655a7c9e0cf0bb0bb.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/5/534263e7465ce50c4e054fb8e59dc093.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/5/551619d55268618c70f7e17477821aac.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/5/5a3e6ec4a3bb4beae2f2162555b60719.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/6/62305dbb87a350c340ba3cabd218530f.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/6/64373f4aaca326b672953de02b47680e.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/6/65dd6a2f92ed9327935674bd4c1fa09a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/6/68bf982ba8edf22773ad3aa6e6b88bf0.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/718ff53c88c49d7be0df27a95fba5320.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/7270ba9166fc02586957689b3b035be1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/76d68d5e8afd1360790999b1fb0dce75.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/7dc2bedaecf0d9a157e92d8195aecec5.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/7e45379282c1e7d2e81ad3a951ac5ba0.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/7/7fb808e9cd091bf9a6c3088bb6c13132.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/8/84b5882962e5189f93d32b99d83b7e14.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/8/84e52b0ae50195d81347708819671c2a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/8/871e405a5156202dee9ff59db4fa2054.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/8/8794b71e8efc59026f63073c989ba29d.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/8/8c90f01042d5e5dad417a3b82fc60f6a.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/8/8e34611dc9b92bfc524aa4659f065994.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/9/9104bfdff35f03258de867ade740c864.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/9/91cbe467da0eb225943e05e43a7f3892.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/9/934dac7b563a6d9c60ce3d3715ba364f.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/9/972936875e8692ab47b3d6d34c55527d.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/9/9949a6a660a2420912d0e14a54314709.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/9/99abfd65df4c33bd39953d64512f1090.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/9/99bcd3ae3a8a174fd5ae02c3e5c3d4c1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ab789fc609f451be934e66043d5d2283.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/aca6b9b1029bef79a0cf43e16a01c361.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/ae1b290dcfca1cdecd87a85bbe4b1164.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/a/af31da8751bbcb4b69fa8ba30721601d.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/b/b17b6d1de1c621b758a969f74aeff5dd.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/b/b3822763dbd808444ec755afca2bb677.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/c/c0edeb31de4251a9a9fe2f13a84f7b7f.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/c/c456819ae9367af7b70a242628d098f4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/c/c5c4d1fed29351b8fbc94cc66868867f.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/c/c767bd3432c61b1eac49ed82658f8f5d.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/c/cbee869fba800e9a93a5660237cea005.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/c/cc72613807f8fa93720c46be059710b3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/c/cebda65d2fc8e2152919b3e2666faff7.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/d/d13ac79e65483cad23e45d276b81a927.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/d/d1da77e3f6f9f7133c572e713621c0ca.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/d/d892013687bc0160987864f7673fa292.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/e/e219ed11ea27e5d6348393989452a4b2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/e/e6021f5f6beb685e4eced147dbf8d9a6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/e/ecbbee369b6c7095294f8f3d96b05758.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/e/ed57fe8c0ab519733867e3a8bbdf9657.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/e/ef594b297372010ba696bc922b02d6cf.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/f/f31e03a8eae6961cc021fa25cc3b0fae.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/f/f39efdcaff5f5203f9cf122ad906f7a6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/config/f/f6d63d96bbf986e5e45ccc6c9843b86b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" afterPath="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="$PROJECT_DIR$/app/cache/dev/classes.map" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/classes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/09/0d/970d09" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/26/a8/44a826" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/73/e1/1be173" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/74/03/bf0374" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/9b/63/de639b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/b0/24/9024b0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/c3/0c/ec0cc3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/cc/58/ad58cc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/d3/67/4e67d3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/da/f4/50f4da" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f4/7d/2f7df4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/f6/6c/136cf6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/0a/0aa95f62e8c11c0066f141e540da0f5c55353ecd1c879d5b605eaa83caeccdaa.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/0b/0b03c0201bb0bc360aeb9da00ab43425fdb31173f11b755e51ce48b46174670b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/17/17994fbf9cb6f1367900cac31ea83e83641a0c89b8ab376b44261b8f9566db17.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/1b/1b65be6b0239c0736c7b8c171ca23320ee36ffe0736a1a2cae7092150407d653.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/1b/1b98d7361d5fa98886e4938bd3df57f1c6637b8ff003b490758f261aef3af9ea.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/1e/1e7b11a16d60cffe169af13552be05751039d538bc3cbf2009fa90d3b6af582c.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/20/206cd10961744b6c19b775e59b7a96e154fdfe7e8770135857e338e324b51de6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/22/22793c84d04f106a839393ac06ab6a7ea2f3e49e2063b4d446cd76539457befb.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/25/2539fd3953bde877e93ed14738bd7913f7497459b104289f575364b7e47c23c5.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/2a/2aa218c8ae235b776f444f036d0f733963e5427564be23cb9584a898a165b041.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/2c/2ca98c98330d95572943479b977dd2185e478758db8ddfc829244ae37021477e.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/34/34d20c38d1d50a6bc45b415d9f9c5908cc9d6ffcb4e6d417cc498eb297d95396.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/38/38791309a7443c98b3d32bbae1489f7c784df79a81f9a1331ae64c4d238bf914.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/3e/3e3f54c9aa6887dad7ff033bb3ab323ad87d2fd9afaa6890cc24561c76760ad4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/44/44d9f77830132884294afa42a642e8bf12d20774bc5031de3b7d91b6f128abd0.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/45/45a56366ad5588cd8c66122e1b23e3351364c7b7a55fd5372c075ef955f59c84.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/46/462d7740cc9fd026df01df4e8558fb568ec9e8ff75984819bd63c27dedf41a36.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/47/4797a78722359c078a8e90125f46627de3d3a65d88a722a25d17c1f3811beffb.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/51/510569c2d0774ced9020977ec5dd4ea032e6dc82e431f0cb0e74ca415bfdc57b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/58/584b98dd2eb5bc0686c15d8cec40d9da9e67a5891a0cd32b9051a3677f510cf3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/65/6535c1538679b5c247e155cba003018ba14e10ea94ad803839f74ef7a49dbee8.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/6b/6b9ce03091c3d5dc1fcb06999f885554cc6191310feab8b3f98de16f2a358288.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/6e/6e17f7b0766b73a910cb2c49cd4ced2b088bbd920ee735ea69805a51e5820797.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/73/737323cc80b39b0ab0af1dd2d4592f9f42926da0407658f916cb69f3a5ec142b.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/79/7965a0bbbc0e54b0081b3255b147762df9b74b43889952dabbc677547f5afbff.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/87/87d37dc004f00e615a21ba5b069158886dd3138748b3f30abc0b33cf424ded5c.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/8d/8d3efb4c53122bb6ff12b8d646aea10204b958243e710a8f38aedc5383d3ce05.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/9b/9b3394dae8e8241db8a4cd6642d1f19a7cd9961ffddb26c70748f68c551ec689.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/9b/9b6fb7c04ae095953b231a2f2b289d3c9aad1b5e39d89ec50416f38f8b84b8c2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/9d/9d0a02a39aff83b39dc09bf174d444b838007fa7ef8e1f5ad57f77cd5942d6d7.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/9d/9dc71135f719d8a4c7c97af914646bd94ff8089f3cbd6960f2ab14f13d1779cc.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/a7/a7bae6d9499823016804509b82e410e6268935ef1e4d7416e32bbfbd853f4c4f.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/a9/a9e93966c81cf23af624b65c9d348ee5c8ec4694104eea1e7eb3ca96d4e1e719.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/bf/bf2eda8c4684cf4efd595c48b6ace584c0c23f8f99cc9d45786b83ba84a5b5e9.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/c6/c6d6c77066a6c614c477fa437c1b6ef9474d3b6067488f11e7de60433d5c3bae.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/e2/e2360d47cd8476cb39cca45a3c719936628fb337645f1b7d29c8e2329afc5c77.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/e8/e89b973763c5a47ca1cb3c29c878af36bf5736762976b4484260948750eb17b1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/ef/efc0b0e7a203f717a24c188dd00ecabda493da65ce6e2b491581249c78b2e7c1.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/f9/f91effcc3e2785f215cce8438f1ccffb4ab678f0b0eee8f42652b8abcc71c9cb.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/fb/fb904f05db2a135371af2d4509fe6f44377b1ae00ccf96577d029a7d25dc9de3.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/fb/fba9076d870a2812ce9377973969c7e622472f8006a34670ff916744281718ba.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/fc/fc87bb4b9ee29bf77d35d966cf9f4b45b142c0259dc6466766a362fed43292b6.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/cache/dev/twig/ff/ff259eb7021eadeb1fad6cf28f78b42ffd565b1ab9202ecda99b598c641f2f88.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change beforePath="$PROJECT_DIR$/app/config/parameters.yml" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
+      <change beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change beforePath="$PROJECT_DIR$/app/config/services.yml" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change beforePath="$PROJECT_DIR$/bin/doctrine" afterPath="$PROJECT_DIR$/bin/doctrine" />
+      <change beforePath="$PROJECT_DIR$/bin/doctrine-dbal" afterPath="$PROJECT_DIR$/bin/doctrine-dbal" />
+      <change beforePath="$PROJECT_DIR$/bin/doctrine.php" afterPath="$PROJECT_DIR$/bin/doctrine.php" />
+      <change beforePath="$PROJECT_DIR$/bin/security-checker" afterPath="$PROJECT_DIR$/bin/security-checker" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/GalleryController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GalleryController.php" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/AppUsers.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/CopAlbums.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/CopPictures.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/FosUser.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/REST.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/Users.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/README.md" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/composer.json" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationReader.php" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationReader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/CachedReader.php" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/CachedReader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/FileCacheReader.php" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/FileCacheReader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/PhpParser.php" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/PhpParser.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/TokenParser.php" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/TokenParser.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/phpstan.neon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/.travis.yml" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/composer.json" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ApcCache.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ApcCache.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ApcuCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ArrayCache.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ArrayCache.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/CacheProvider.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/CacheProvider.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MemcachedCache.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MemcachedCache.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MultiPutCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/PredisCache.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/PredisCache.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/RedisCache.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/RedisCache.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/Version.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/Version.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/WinCacheCache.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/lib/Doctrine/Common/Cache/WinCacheCache.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ApcCacheTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ApcCacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ApcuCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ArrayCacheTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ArrayCacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/BaseFileCacheTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/BaseFileCacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/CacheProviderTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/CacheProviderTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/CacheTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/CacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/FileCacheTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/FileCacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/MongoDBCacheTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/MongoDBCacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/PhpFileCacheTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/PhpFileCacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/RedisCacheTest.php" afterPath="$PROJECT_DIR$/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/RedisCacheTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/collections/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/collections/README.md" afterPath="$PROJECT_DIR$/vendor/doctrine/collections/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/collections/composer.json" afterPath="$PROJECT_DIR$/vendor/doctrine/collections/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" afterPath="$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Expr/ClosureExpressionVisitor.php" afterPath="$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Expr/ClosureExpressionVisitor.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Expr/Comparison.php" afterPath="$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/Expr/Comparison.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ExpressionBuilder.php" afterPath="$PROJECT_DIR$/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ExpressionBuilder.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/LICENSE" afterPath="$PROJECT_DIR$/vendor/doctrine/common/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/composer.json" afterPath="$PROJECT_DIR$/vendor/doctrine/common/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/humbug.json.dist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/ClassLoader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/EventManager.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/EventManager.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/AbstractManagerRegistry.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Event/PreUpdateEventArgs.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Event/PreUpdateEventArgs.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/ClassMetadataFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/ClassMetadataFactory.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/AnnotationDriver.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/AnnotationDriver.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/DefaultFileLocator.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/DefaultFileLocator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/FileDriver.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/FileDriver.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/MappingDriverChain.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/MappingDriverChain.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/PHPDriver.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/PHPDriver.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/StaticPHPDriver.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/StaticPHPDriver.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/SymfonyFileLocator.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/SymfonyFileLocator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/StaticReflectionService.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/StaticReflectionService.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/ObjectRepository.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/ObjectRepository.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/PersistentObject.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/PersistentObject.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Proxy/AbstractProxyFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Proxy/AbstractProxyFactory.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Autoloader.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Autoloader.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Exception/UnexpectedValueException.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Exception/UnexpectedValueException.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Proxy/ProxyGenerator.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Proxy/ProxyGenerator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Reflection/StaticReflectionClass.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Reflection/StaticReflectionClass.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Reflection/StaticReflectionParser.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Reflection/StaticReflectionParser.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Reflection/StaticReflectionProperty.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Reflection/StaticReflectionProperty.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Util/Debug.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Util/Debug.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Version.php" afterPath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Version.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/MySqlSchemaManager.php" afterPath="$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/MySqlSchemaManager.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/CreateDatabaseDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/CreateDatabaseDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/DoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/DoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/DropDatabaseDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/DropDatabaseDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/GenerateEntitiesDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/GenerateEntitiesDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/ImportMappingDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/ImportMappingDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ClearMetadataCacheDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ClearMetadataCacheDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ClearQueryCacheDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ClearQueryCacheDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ClearResultCacheDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ClearResultCacheDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/CollectionRegionDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/CollectionRegionDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ConvertMappingDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ConvertMappingDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/CreateSchemaDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/CreateSchemaDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/DelegateCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/DelegateCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/DoctrineCommandHelper.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/DoctrineCommandHelper.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/DropSchemaDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/DropSchemaDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/EnsureProductionSettingsDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/EnsureProductionSettingsDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/EntityRegionCacheDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/EntityRegionCacheDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ImportDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ImportDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/InfoDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/InfoDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/QueryRegionCacheDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/QueryRegionCacheDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/RunDqlDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/RunDqlDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/RunSqlDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/RunSqlDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/UpdateSchemaDoctrineCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/UpdateSchemaDoctrineCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ValidateSchemaCommand.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Command/Proxy/ValidateSchemaCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/ConnectionFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/ConnectionFactory.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Controller/ProfilerController.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Controller/ProfilerController.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DataCollector/DoctrineDataCollector.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DataCollector/DoctrineDataCollector.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/Compiler/DoctrineOrmMappingsPass.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/Compiler/DoctrineOrmMappingsPass.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/Compiler/EntityListenerPass.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/Compiler/EntityListenerPass.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/Compiler/ServiceRepositoryCompilerPass.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/Configuration.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/Configuration.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/DoctrineExtension.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DependencyInjection/DoctrineExtension.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DoctrineBundle.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/DoctrineBundle.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/ManagerConfigurator.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/ManagerConfigurator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Mapping/ClassMetadataCollection.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Mapping/ClassMetadataCollection.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Mapping/ContainerAwareEntityListenerResolver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Mapping/DisconnectedMetadataFactory.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Mapping/DisconnectedMetadataFactory.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Mapping/EntityListenerServiceResolver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Registry.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Registry.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Repository/ContainerRepositoryFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Repository/ServiceEntityRepository.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Repository/ServiceEntityRepositoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/config/dbal.xml" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/config/dbal.xml" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/config/orm.xml" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/config/orm.xml" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/config/schema/doctrine-1.0.xsd" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/config/schema/doctrine-1.0.xsd" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/views/Collector/icon.svg" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Resources/views/Collector/icon.svg" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Twig/DoctrineExtension.php" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/Twig/DoctrineExtension.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/composer.json" afterPath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle/phpcs.xml.dist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/security-acl/Domain/SecurityIdentityRetrievalStrategy.php" afterPath="$PROJECT_DIR$/vendor/symfony/security-acl/Domain/SecurityIdentityRetrievalStrategy.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/security-acl/README.md" afterPath="$PROJECT_DIR$/vendor/symfony/security-acl/README.md" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/security-acl/Tests/Domain/SecurityIdentityRetrievalStrategyTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/security-acl/Tests/Domain/SecurityIdentityRetrievalStrategyTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/security-acl/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/security-acl/composer.json" />
+      <change beforePath="$PROJECT_DIR$/web/app.php" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change beforePath="$PROJECT_DIR$/web/app_dev.php" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change beforePath="$PROJECT_DIR$/web/bundles/framework" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/bundles/sensiodistribution" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AppKernel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="albums.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/gallery/albums.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="125" lean-forward="false" selection-start-line="16" selection-start-column="125" selection-end-line="16" selection-end-column="125" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_dev.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pictures.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/gallery/pictures.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GalleryController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/GalleryController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/GalleryController.php" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-acl" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php55" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php54" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/kriswallsmith/assetic" />
+      <path value="$PROJECT_DIR$/vendor/symfony/assetic-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="82" />
+    <option name="y" value="79" />
+    <option name="width" value="1623" />
+    <option name="height" value="526" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gallery_v2.8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery_v2.8" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gallery_v2.8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery_v2.8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gallery_v2.8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery_v2.8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gallery_v2.8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery_v2.8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gallery_v2.8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery_v2.8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gallery_v2.8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery_v2.8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="gallery_v2.8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery_v2.8" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6f7e8fa-8c80-4688-81ef-ff9b10754480" name="Default" comment="" />
+      <created>1527068726014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527068726014</updated>
+      <workItem from="1527068729384" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2100000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="42" y="301" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17357656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20732984" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39970502" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14151464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39970502" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/gallery/albums.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="125" lean-forward="false" selection-start-line="16" selection-start-column="125" selection-end-line="16" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="21" lean-forward="false" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/GalleryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="21" lean-forward="false" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="21" lean-forward="false" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery/displayimage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3348">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/MySqlSchemaManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="73" column="12" lean-forward="false" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="71" column="21" lean-forward="false" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/AppUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/CopAlbums.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/gallery/albums.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="125" lean-forward="false" selection-start-line="16" selection-start-column="125" selection-end-line="16" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="77" column="21" lean-forward="false" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/gallery/pictures.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/GalleryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

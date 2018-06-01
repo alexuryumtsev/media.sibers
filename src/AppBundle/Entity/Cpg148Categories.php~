@@ -1,0 +1,99 @@
+<?php
+
+namespace AppBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Cpg148Categories
+ *
+ * @ORM\Table(name="cpg148_categories")
+ * @ORM\Entity
+ */
+class Cpg148Categories
+{
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="name", type="string", length=255, nullable=false)
+     */
+    private $name = '';
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="description", type="text", length=65535, nullable=false)
+     */
+    private $description;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="thumb", type="integer", nullable=false)
+     */
+    private $thumb = '0';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="rgt", type="integer", nullable=false)
+     */
+    private $rgt = '0';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="cid", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $cid;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="parent", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $parent;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="pos", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $pos;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="owner_id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $ownerId;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="depth", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $depth;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="lft", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $lft;
+
+
+}
+

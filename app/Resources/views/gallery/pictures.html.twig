@@ -1,0 +1,28 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Albums{% endblock %}
+
+{% block nav%}
+<li><a href="{{ path('CopAlbums') }}">Back</a></li>
+{% endblock %}
+
+{% block body %}
+
+<div class="container">
+    <div class="grid">
+    {% for album in albums %}
+    <h1 class="h2 text-center">{{album.title}}</h1>
+    {% endfor %}
+    <div class="col-lg-3 col-md-4 col6 thumb">
+                {% for post in posts %}
+                        
+                            <a data-fancybox="gallery" href="{{ asset("http://demo.media.dev4.sibers.com/albums/"~ post.filepath ~ post.filename) }}">
+                                <img class="img-responsive" src="{{ asset('http://demo.media.dev4.sibers.com/albums/'~ post.filepath ~ '/thumb_' ~ post.filename) }}" alt="">
+                            </a>
+                        
+                {% endfor %}
+</div>
+    </div>
+</div>
+
+{% endblock %}

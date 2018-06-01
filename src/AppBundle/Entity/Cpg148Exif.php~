@@ -1,0 +1,33 @@
+<?php
+
+namespace AppBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Cpg148Exif
+ *
+ * @ORM\Table(name="cpg148_exif")
+ * @ORM\Entity
+ */
+class Cpg148Exif
+{
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="exifData", type="text", length=65535, nullable=false)
+     */
+    private $exifdata;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="pid", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="IDENTITY")
+     */
+    private $pid;
+
+
+}
+

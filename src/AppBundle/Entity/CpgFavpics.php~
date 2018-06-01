@@ -1,0 +1,33 @@
+<?php
+
+namespace AppBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * CpgFavpics
+ *
+ * @ORM\Table(name="CPG_favpics")
+ * @ORM\Entity
+ */
+class CpgFavpics
+{
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="user_favpics", type="text", length=65535, nullable=false)
+     */
+    private $userFavpics;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="user_id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="IDENTITY")
+     */
+    private $userId;
+
+
+}
+

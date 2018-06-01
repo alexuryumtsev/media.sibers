@@ -1,0 +1,30 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Gallery{% endblock %}
+
+{% block nav%}
+<li><a href="{{ path('CopUsers') }}">Back</a></li>
+{% endblock%}
+
+{% block body %}
+
+<div class="container">
+    
+    <h1 class="h2 text-center">Albums</h1>
+	<div class="row">
+	{% for post in posts %}
+	            <div class="col-lg-3 col-md-4 col-6 thumb">
+                        <a href="{{ asset("http://demo.mediaview.dev4.sibers.com/albums/pictures-users/" ~ post.aid) }}">
+                            <img class="img-responsive" src="{{asset('http://demo.media.dev4.sibers.com/albums/' ~post.filepath ~'/thumb_' ~post.filename)}}" alt="">
+                        </a>
+                    {#	    {% if albums.aid == post.aid %}#}
+                    {#	<figcaption class="figure-caption" style="text-align:left; font-size:12px; font-weight:600;">{{ album.title}}</figcaption>#}
+                    {#	<figcaption class="figure-caption" style="text-align:left; font-size:12px; font-weight:600;">View: {{ album.albHits}}</figcaption>#}
+                    {#	    {% endif %} #}
+                    </div>
+	{% endfor %}
+	</div>
+	
+    </div>
+
+{% endblock %}

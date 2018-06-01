@@ -1,0 +1,240 @@
+<?php
+
+namespace AppBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * CpgPictures
+ *
+ * @ORM\Table(name="CPG_pictures")
+ * @ORM\Entity
+ */
+class CpgPictures
+{
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="filepath", type="string", length=255, nullable=false)
+     */
+    private $filepath = '';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="filesize", type="integer", nullable=false)
+     */
+    private $filesize = '0';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="total_filesize", type="integer", nullable=false)
+     */
+    private $totalFilesize = '0';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="pwidth", type="smallint", nullable=false)
+     */
+    private $pwidth = '0';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="pheight", type="smallint", nullable=false)
+     */
+    private $pheight = '0';
+
+    /**
+     * @var \DateTime
+     *
+     * @ORM\Column(name="mtime", type="datetime", nullable=false)
+     */
+    private $mtime = '0000-00-00 00:00:00';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="ctime", type="integer", nullable=false)
+     */
+    private $ctime = '0';
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="owner_name", type="string", length=40, nullable=false)
+     */
+    private $ownerName = '';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="votes", type="integer", nullable=false)
+     */
+    private $votes = '0';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="galleryicon", type="integer", nullable=false)
+     */
+    private $galleryicon = '0';
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="user1", type="string", length=255, nullable=false)
+     */
+    private $user1 = '';
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="user2", type="string", length=255, nullable=false)
+     */
+    private $user2 = '';
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="user3", type="string", length=255, nullable=false)
+     */
+    private $user3 = '';
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="user4", type="string", length=255, nullable=false)
+     */
+    private $user4 = '';
+
+    /**
+     * @var boolean
+     *
+     * @ORM\Column(name="url_prefix", type="boolean", nullable=false)
+     */
+    private $urlPrefix = '0';
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="pic_raw_ip", type="text", length=255, nullable=true)
+     */
+    private $picRawIp;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="pic_hdr_ip", type="text", length=255, nullable=true)
+     */
+    private $picHdrIp;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="lasthit_ip", type="text", length=255, nullable=true)
+     */
+    private $lasthitIp;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="position", type="integer", nullable=false)
+     */
+    private $position = '0';
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="pid", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $pid;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="owner_id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $ownerId;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="hits", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $hits;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="pic_rating", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $picRating;
+
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="aid", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $aid;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="approved", type="string")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $approved;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="title", type="string", length=255)
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $title;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="caption", type="text", length=65535)
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $caption;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="keywords", type="string", length=255)
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $keywords;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="filename", type="string", length=255)
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="NONE")
+     */
+    private $filename;
+
+
+}
+
